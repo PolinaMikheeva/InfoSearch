@@ -9,7 +9,7 @@ import nltk
 import pymorphy3
 from bs4 import BeautifulSoup
 
-SOURCE_DIR = './pages'
+SOURCE_DIR = '../task1/pages'
 TOKENS_DIR = './tokens'
 LEMMAS_DIR = './lemmas'
 
